@@ -1,2 +1,0 @@
-# angularTodoApp
-angular Todo App
